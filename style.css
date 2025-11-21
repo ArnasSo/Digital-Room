@@ -26,6 +26,11 @@ h1 {
   margin-bottom: 1rem;
 }
 
+.intro{
+  font-size: 2.8rem;
+  margin-bottom: 1rem;
+}
+
 /* Paragraphs */
 p {
   font-size: 1.1rem;
